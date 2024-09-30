@@ -1,64 +1,35 @@
 ---
-layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
+You can download my full CV [here](/files/resume.pdf){: .btn--research}
 
-{% include base_path %}
 
+Appointments
+======
+* **Postdoctoral Researcher** Mar. 2023 - ongoing: 
+    * Department of Sociology, University of Copenhagen
+    * DFF [HABITS](https://socialsciences.ku.dk/news/2022/do-we-ever-tell-the-truth-about-our-views-on-others/) - Leveraging online searches to assess discriminatory attitudes
+        * Apr. 2024: **Visiting researcher** - Médialab Science-po (with Achim Edelmann)
+        * From Sept 2024: **Chair**, Knowledge, Organization and Politics (KOP) research group
+<br>
+<br>
+* **Researcher** June 2022 - Feb. 2023: 
+  * Department of Sociology, University of Trento
+  * H2020 [Periscope](https://periscopeproject.eu/) - Pan-European Response to the Impacts of COVID-19 and future Pandemics and Epidemics
+<br>
+<br>
+* **Teaching Assistant** Spring Semester 2019/20/21: 
+  * Quantititative Methods for Social Science
+<br>
+<br>
+  
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. Sociology and Social Reserch, University of Trento, 2022
+* M.S.  Sociology, University of Trento, 2015
+* B.S.  Communication Studies, University of Padova, 2011
+<br>
+<br>
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

@@ -20,7 +20,7 @@
     @include container;
     @include clearfix;
     padding: 1em 1em 1em;
-    font-family: $sans-serif-narrow;
+    font-family: 'Roboto', sans-serif; /* Add custom font */;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -50,9 +50,14 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  margin: 0 15px; /* Spacing between all menu items */
+}
 
-  &--lg {
-    padding-right: 3em;
-    font-weight: 700;
-  }
+.masthead__menu-item--lg {
+  font-family: 'Roboto', sans-serif; /* Add custom font */
+  font-size: 1.6em; /* Adjust the font size */
+  font-weight: 300 !important;
+  color: #000000 !important;
+  text-decoration: none !important;
+  padding-right: 22em; /* Original spacing */
 }

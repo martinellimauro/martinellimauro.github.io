@@ -21,7 +21,7 @@
   }
 
   @include breakpoint($large) {
-    @include span(2 of 12);
+    @include span(3 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -90,11 +90,11 @@
   }
 
   img {
-    max-width: 175px;
+    max-width: 250px;
     border-radius: 50%;
 
     @include breakpoint($large) {
-      padding: 5px;
+      padding: 1px;
       border: 1px solid $border-color;
     }
   }
@@ -145,11 +145,13 @@
 }
 
 .author__bio {
-  margin: 0;
+  margin: 5;
+  text-align: center; /* Center the bio text */
+
 
   @include breakpoint($large) {
     margin-top: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
   }
 }
 
@@ -181,6 +183,48 @@
   }
 }
 
+.author__urls {
+  display: flex; /* Align items horizontally */
+  flex-wrap: wrap; /* Ensure icons wrap to the next line if necessary */
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove extra padding */
+  margin: 0; /* Remove extra margins */
+  justify-content: right; /* Align icons to the left */
+  border: none; /* Remove border if unnecessary */
+  background: transparent; /* Remove background color */
+  box-shadow: none; /* Remove shadow */
+}
+  
+
+  .author__urls li {
+  display: inline-block; /* Ensure icons are inline */
+  margin-right: 10px; /* Add space between icons */
+}
+
+.author__urls a {
+  text-decoration: none; /* Remove underline */
+  color: inherit; /* Keep the color of the icon */
+}
+
+
+.author__urls a i {
+  font-size: 20px; /* Adjust the size of the icon here */
+}
+
+.author__urls li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+
+
+
+
+
+
+
+
+/* ORIGINAL CODE
 .author__urls {
   display: none;
   position: absolute;
@@ -258,3 +302,4 @@
     }
   }
 }
+*/
