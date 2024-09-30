@@ -12,8 +12,8 @@ title                    : "MAURO MARTINELLI"
 title_separator          : "-"
 name                     : &name "Mauro Martinelli"
 description              : &description "personal description"
-url                      : "https://martinellimauro.github.io" # the base hostname & protocol for your site e.g. 
-baseurl                  : "https://martinellimauro.github.io/about" # the subpath of your site, e.g. "/blog"
+url                      : "https_//martinellimauro.github.io" # the base hostname & protocol for your site e.g.
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "martinellimauro/martinellimauro.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
