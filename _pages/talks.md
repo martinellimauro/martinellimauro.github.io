@@ -3,8 +3,9 @@ permalink: /talks/
 title: "Recent and forthcoming talks"
 author_profile: true
 ---
+**Mannheim University** "Novel Data Sources, New Methods, and Computational Approaches for Understanding Discrimination and Bias." Invited speech, February 2025
 
-**UCPH** seminar. “Culture, cognition and group meaning-making in health decision.” Master degree in Sociology, University of Copenhagen. October 2024 (forthcoming)
+**UCPH** seminar. “Culture, cognition and health decision.” Master degree in Sociology, University of Copenhagen. October 2024 
 
 **ECSR** Conference. Regional and cross-national Prevalence of Racist attitudes in Europe. Evidence from Online Search Behavior. Barcelona, Sept. 2024.
 
