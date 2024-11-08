@@ -3,7 +3,7 @@ permalink: /talks/
 title: "Recent and forthcoming talks"
 author_profile: true
 ---
-**Mannheim University** "Novel Data Sources, New Methods, and Computational Approaches for Understanding Discrimination and Bias." Invited speech, February 2025
+**Mannheim University Workshop**. "Novel Data Sources, New Methods, and Computational Approaches for Understanding Discrimination and Bias." Invited speech, February 2025
 
 **UCPH** seminar. “Culture, cognition and health decision.” Master degree in Sociology, University of Copenhagen. October 2024 
 
