@@ -10,7 +10,7 @@ Appointments
 ======
 * **Postdoctoral Researcher** Mar. 2023 - ongoing: 
     * Department of Sociology, University of Copenhagen
-    * DFF [HABITS](https://socialsciences.ku.dk/news/2022/do-we-ever-tell-the-truth-about-our-views-on-others/) - Leveraging online searches to assess discriminatory attitudes
+    * DFF [HABITS](https://socialsciences.ku.dk/news/2022/do-we-ever-tell-the-truth-about-our-views-on-others/) - Leveraging online searches to measure social desirability bias in discriminatory attitudes
         * Apr. 2024: **Visiting researcher** - Médialab Science-po (with Achim Edelmann)
         * From Sept 2024: **Chair**, Knowledge, Organization and Politics (KOP) research group
 <br>
