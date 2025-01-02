@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a social scientist working at the intersection of **health**, **discrimination** and **social inequalities**. <br>
+I am a computational social scientist working at the intersection of **health**, **discrimination** and **social inequalities**. <br>
 With a strong focus on quantitative and computational methods, my research combines **survey** data, large-scale **secondary data**, and increasingly incorporate **digital trace data** to develop measures that can be difficult to capture with more traditional data sources.
 
 Currently, my research centers on two main areas:
