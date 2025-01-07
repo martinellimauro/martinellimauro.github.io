@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a social scientist studying individuals' behaviors and attitudes, and exploring how these are socially stratified and shape social outcomes. I have a strong focus on quantitative and computational methods, and my research integrates survey data, administrative records, and digital trace data to develop measures that are often challenging to capture with traditional approaches.
 
-I am currently a postdoctoral researcher at the [Department of Sociology at Copenhagen University](https://www.sociology.ku.dk/) where i work in the [HABITS](https://socialsciences.ku.dk/news/2022/do-we-ever-tell-the-truth-about-our-views-on-others/) project, where we leverage online search data to measure social desirability bias in surveys. I received my PhD in May 2022 from the [Department of Sociology at the University of Trento](https://www.sociologia.unitn.it/en), where I also worked as a postdoc for the [Periscope](https://periscopeproject.eu/) project. 
+I am currently a postdoctoral researcher at the [Department of Sociology at Copenhagen University](https://www.sociology.ku.dk/) in the [HABITS](https://socialsciences.ku.dk/news/2022/do-we-ever-tell-the-truth-about-our-views-on-others/) project, where we leverage online search data to measure social desirability bias in surveys. I received my PhD in May 2022 from the [Department of Sociology at the University of Trento](https://www.sociologia.unitn.it/en), where I also worked as a postdoc for the [Periscope](https://periscopeproject.eu/) project. 
 
 Currently, my research centers around two main areas:
 

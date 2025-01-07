@@ -3,7 +3,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 ---
-You can download my full CV [here](/files/resume.pdf){: .btn--research}
+You can download my full CV [here](/files/martinelli_resume.pdf){: .btn--research}
 
 
 Appointments
