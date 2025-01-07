@@ -22,7 +22,7 @@ Appointments
 <br>
 * **Teaching Assistant** Spring Semester 2019/20/21: 
   * Quantititative Methods for Social Science
-  * Seuvey Design
+  * Survey Design
 <br>
 <br>
   
