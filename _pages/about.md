@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! I am Mauro."
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
