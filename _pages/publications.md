@@ -3,14 +3,15 @@ permalink: /publications/
 title: "Publications and Working Papers"
 ---
 ### Working papers
- 
-
-**Martinelli, M.**, & Merhout, F., (2024). Using internet search data for comparative longitudinal research. The rise of the radical right across Europe. Department of Sociology, Copenhagen University, Copenhagen, Denmark.
-
-Merhout, F., **Martinelli, M.**.  Regional and Cross-national prevalence of racist attitudes in Europe. Evidence from Online Search Behavior. Department of Sociology, Copenhagen University, Copenhagen, Denmark.
 
 
-**Martinelli, M.**, Lievore., I. Disentangling the Relationship Between Excess Mortality and Perceived Risk.Longitudinal Insights from a Rolling Cross-Section Approach.
+
+Mauro Martinelli, Nicoletta Balbo. Uptake of Cervical Screening Among Mothers of Children with Disabilities: Evidence from the uK.  
+
+**Martinelli, M.**, & Merhout, F., Using Internet Search Data to Produce Long-Running Comparable Time Series: A Hybrid Method Combining Multiple Sources. (Under review)
+
+
+**Martinelli, M.**, Lievore., I. Disentangling the Relationship Between Excess Mortality and Perceived Risk. Longitudinal Insights from a Rolling Cross-Section Approach.
 
 
 ### Publications

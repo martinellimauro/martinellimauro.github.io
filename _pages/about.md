@@ -6,16 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a social scientist studying how people navigate health-related uncertainty, from preventive decisions to long-term care, and how these patterns intersect with family circumstances and broader social structures shaping social inequalities.
+I am a social scientist studying how people navigate health-related uncertainty and health outcomes, from preventive decisions to long-term care, and how these patterns intersect with family contexts and broader social inequalities. My work integrates survey data, administrative records, and digital trace data to capture aspects that are often difficult to observe with conventional sources.
 
-I am currently a postdoctoral researcher at the [Department of Sociology at Copenhagen University](https://www.sociology.ku.dk/) in the [HABITS](https://socialsciences.ku.dk/news/2022/do-we-ever-tell-the-truth-about-our-views-on-others/) project, where we leverage online search data to measure social desirability bias in surveys. I received my PhD in May 2022 from the [Department of Sociology at the University of Trento](https://www.sociologia.unitn.it/en), where I also worked as a postdoc for the [Periscope](https://periscopeproject.eu/) project. 
-
-Currently, my research centers around two main areas:
-
-**Discrimination and social inequality**: I examine how discriminatory attitudes within communities influence voting behavior and wellbeing, and how these attitudes disproportionately affect underrepresented groups, such ethnic and racial minorities.
-
-**Health decisions and mental health**: I investigate how individuals make health-related decisions, with particular attention to the role of cognitive processes in shaping vaccination decisions. In a new project, I am exploring the prevalence and distribution of mental health disorders across Europe using digital trace data.
+I am currently a Research Fellow at the [DONDENA Centre for Research on Social Dynamics and Public Policy](https://dondena.unibocconi.eu/) at Bocconi University, working on the [FRAILIFE](https://www.unibocconi.it/en/faculty-and-research/research/erc-projects/frailife-child-disability-and-family-life) project. I was previously a Postdoctoral Researcher at the University of Copenhagen and at the University of Trento, where I also earned my PhD in Sociology and Social Research. 
 
 
 
-If you are interested in collaborating, chatting about out work or sharing ideas feel free to [reach out!](mailto:mam@soc.ku.dk):)
+
+
+If you are interested in collaborating or sharing ideas, feel free to [get in touch!](mailto:mauro.martinelli@unibocconi.it):)
