@@ -1,9 +1,16 @@
 ---
 permalink: /talks/
-title: "Recent and forthcoming talks"
+title: "Recent and forthcoming presentations"
 author_profile: true
 ---
-**Mannheim University Workshop**. "Novel Data Sources, New Methods, and Computational Approaches for Understanding Discrimination and Bias." Invited speech, February 2025
+
+**ECSR 2026** Conference. Trinity College, Dublin. “Cervical cancer screening in mothers of
+children with disabilities. Evidence from the UK.” May 2026. 
+
+**EPC 2026** Conference, University of Bologna.  “Uptake of Cervical Screening among
+Mothers of Children with Disabilities: Evidence from Finland.” May 2026.
+
+**MZES Lab Workshop**. Mannheim University,  "Novel Data Sources, New Methods, and Computational Approaches for Understanding Discrimination and Bias." Feb. 2025. (Invited)
 
 **UCPH** seminar. “Culture and  cognition” Master degree in Sociology, University of Copenhagen. October 2024 
 
@@ -11,7 +18,7 @@ author_profile: true
 
 **IC2S2** Conference. Using internet search data for comparative longitudinal research. The rise of the radical right across Europe.  Philadelphia, July 2024.
 
-**Médialab** seminar. Investigating social desirability bias in survey measures of discriminatory attitudes using digital trace data.  Invited speech, Médialab, Science Po, Paris, April 2024.
+**Médialab** seminar. Science Po, Paris. Investigating social desirability bias in survey measures of discriminatory attitudes using digital trace data.  (Invited) speech, Apr. 2024.
 
 **SISEC** Conference. Regional and cross-national Prevalence of Racist attitudes in Europe. Evidence from Online Search Behavior. Cagliari, February 2024.
 
